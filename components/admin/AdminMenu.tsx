@@ -30,7 +30,7 @@ export default function AdminMenu({user}: {user: User}) {
             <Link
                 href='/admin/profile/settings'
                 className='block p-2 hover:text-purple-950'
-            >Mi Perfil</Link>
+            >Perfil</Link>
 
             <Link
                 href='/admin'
